@@ -1,4 +1,11 @@
 # Add Authors here
+sunhwa:
+   name: Sunhwa Ryu
+   username: sunhwa
+   avatar: sunhwa.jpg
+   bio: "Hi I a Sunhwa and a Data Scientist."
+
+
 johndoe:
    name: John Doe
    username: johndoe
@@ -46,4 +53,3 @@ xplor4r:
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
-
