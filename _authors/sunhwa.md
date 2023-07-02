@@ -2,8 +2,8 @@
 name: Sunhwa Ryu
 username: sunhwa
 bio: "Hi I a Sunhwa and a Data Scientist."
-avatar: johndoe.png
-email: mail@johndoe.com
+avatar: sunhwa.jpg
+email: @johndoe.com
 social:
     - title: "github"
       url: "https://github.com/Flowersuna95/"
